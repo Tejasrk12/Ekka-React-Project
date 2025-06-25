@@ -1,0 +1,106 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Round Neck T-Shirt",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/6_1.jpg",
+            "product_url": "#",
+            "target_modal": "#ec_quickview_modal",
+            "discount":"20%",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "sale":"sale",
+            "newp":"new"
+        },
+        {
+            "id": 2,
+            "name": "Full Sleeve Shirt",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/7_1.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "newp":"new"                        
+        },
+        {
+            "id": 3,
+            "name": "Cute Baby Toy's",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/1_2.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "sale":"sale"
+        },
+        {
+            "id": 4,
+            "name": "Jumbo Carry Bag",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/2_1.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "discount":"20%",
+            "sale":"sale"
+        },
+        {
+            "id": 5,
+            "name": "Designer Leather Purses",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/3_1.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "sale":"sale",
+            "newp":"new"
+        },
+        {
+            "id": 6,
+            "name": "Canvas Cowboy Hat",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/4_1.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "discount":"20%"
+        },
+        {
+            "id": 7,
+            "name": "Leather Belt for Men",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/5_1.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "discount":"20%",
+            "sale":"sale",
+            "newp":"new"
+        },
+        {
+            "id": 8,
+            "name": "Digital Smart Watches",
+            "old_price":"$27.00",
+            "new_price":"$22.00",
+            "rating":4,
+            "main_image_url": "./assets/images/product-image/8_4.jpg",
+            "product_url": "#",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "target_modal": "#ec_quickview_modal",
+            "newp":"new"
+        }
+    ]
+}
